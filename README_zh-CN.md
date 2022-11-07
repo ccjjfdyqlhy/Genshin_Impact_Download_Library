@@ -4,7 +4,7 @@
 
 ### 这个仓库是干什么的？  
 * 可以给游戏玩家提供稳定的下载地址。注意，稳定并不代表着官方。  
-* 现在支持下载即用。将其导入到Darkstar Unpacker或GILauncher中以使用。
+* 现在支持下载即用。将output.dsdb导入到Darkstar Unpacker或GILauncher中以使用。
 
 
 ### 仓库里面有什么？  
